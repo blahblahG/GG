@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 我是一个粉刷匠粉刷本领强
 
 You can use the [editor on GitHub](https://github.com/blahblahG/GG/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
